@@ -1,6 +1,7 @@
-# Basic Sample Hardhat Project
+# Buy Me A Candy is web3 project for chainlink spring hackathon 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+It's like buymeacoffee.com but in web3 
+plus we take some percentage of each donation and plant a random tree using chainlink VRF with it to help the environment 
 
 Try running some of the following tasks:
 
